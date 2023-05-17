@@ -5,7 +5,7 @@
 $ npm install
 
 # crie um arquivo .env
-$ cp env.example env
+$ cp .env.example .env
 
 # Inicie o servidor
 $ npm start
